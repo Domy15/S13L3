@@ -53,3 +53,6 @@
 
 //Esercizio 3
 
+RandomNumbers numbers = new RandomNumbers();
+
+numbers.GenerateNumbers();
